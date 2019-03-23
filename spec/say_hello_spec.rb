@@ -1,4 +1,4 @@
-
+def say_hello
 
 RSpec.describe "say_hello" do 
   
